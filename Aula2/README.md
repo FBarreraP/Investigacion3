@@ -34,7 +34,7 @@ Los productos de investigación son utilizados por MinCiencias para la medición
     <li>Formación de recurso humano (Proyectos de I+D+i, direcciones de trabajos de grado (pregrado, maestría y doctorado), creación de programas y cursos de formación de investigadores, etc.)</li>
 </ul>
 
-<h2>Revistas</h2>
+<h4>Revistas</h4>
 
 Las revistas nacionales son clasificadas por el Ministerio de Ciencia y pueden ser consultadas <a href="https://scienti.minciencias.gov.co/publindex/#/noticias/lista">aquí</a>. Las revistas internacionales son clasificadas por Scimago y pueden ser consultadas <a href="https://www.scimagojr.com">aquí</a>
 
@@ -51,7 +51,7 @@ Para seleccionar una revista relacionada al tema de investigación que se desea 
     <li> Plantilla (Template)</li>
 </ol>
 
-<h3>Rankings</h3>
+<h5>Rankings</h5>
 
 SCIMAGO Journal and Country Rank (SJR) es un herramienta gratuita basada en las publicaciones de Scopus, la cual clasifica las revistas de acuerdo a los indicadores de la calidad y del impacto (número de citaciones) a nivel de investigación, los cuales se representan por cuartiles:
 
@@ -82,7 +82,7 @@ SCIMAGO Journal and Country Rank (SJR) es un herramienta gratuita basada en las 
 
 Fuente: https://www.mondragon.edu/es/web/biblioteka/indices-de-impacto-de-las-publicaciones
 
-<h3>Bases de datos</h3>
+<h5>Bases de datos</h5>
 
 Las bases de datos son plataformas digitales que incluyen (indexan) artículos o revistas científicas para aumentar su visibilidad y facilitar su acceso. Algunas bases de datos más utilizadas son:
 
