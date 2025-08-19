@@ -88,7 +88,9 @@ Fuente: https://www.mondragon.edu/es/web/biblioteka/indices-de-impacto-de-las-pu
 
 Las bases de datos son plataformas digitales que incluyen (indexan) artículos o revistas científicas para aumentar su visibilidad y facilitar su acceso. Algunas bases de datos más utilizadas son:
 
-Google scholar (gratis)
-IEEE (paga)
-Scopus (paga)
-SciElo
+<ol>
+    <li>Google scholar (gratis)</li>
+    <li>IEEE (paga)</li>
+    <li>Scopus (paga)</li>
+    <li>SciElo</li>
+</ol>
