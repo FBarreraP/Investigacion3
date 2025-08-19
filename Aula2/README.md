@@ -34,6 +34,8 @@ Los productos de investigación son utilizados por MinCiencias para la medición
     <li>Formación de recurso humano (Proyectos de I+D+i, direcciones de trabajos de grado (pregrado, maestría y doctorado), creación de programas y cursos de formación de investigadores, etc.)</li>
 </ul>
 
+* Los productos de investigación deben ser innovadores independientemente de la complejidad.
+
 <h3>Revistas</h3>
 
 Las revistas nacionales son clasificadas por el Ministerio de Ciencia y pueden ser consultadas <a href="https://scienti.minciencias.gov.co/publindex/#/noticias/lista">aquí</a>. Las revistas internacionales son clasificadas por Scimago y pueden ser consultadas <a href="https://www.scimagojr.com">aquí</a>
@@ -62,19 +64,19 @@ SCIMAGO Journal and Country Rank (SJR) es un herramienta gratuita basada en las 
 	</tr>
 	<tr>
 		<td>Q1 (primer 25% de las revistas del listado)</td>
-		<td>Resultados experimentales de alta complejidad y metodología sólida de investigación</td>
+		<td>Investigaciones innovadoras con metodología sólida de investigación y resultados experimentales de alta complejidad</td>
 	</tr>
 	<tr>
 		<td>Q2 (segundo 25% de las revistas del listado)</td>
-		<td>Análisis estadísticos de datos de variables</td>
+		<td>Investigaciones de menor innovación que las de Q1 con resultados y análisis significativos e impactantes</td>
 	</tr>
 	<tr>
 		<td>Q3 (tercer 25% de las revistas del listado)</td>
-		<td>Análisis y evaluación de datos de variables de aplicaciones tangibles</td>
+		<td>Investigaciones de innovación moderada con metodología más simples y resultados de menor complejidad que las de Q1 y Q2</td>
 	</tr>
     <tr>
 		<td>Q4 (cuarto 25% de las revistas del listado)</td>
-		<td>Desarrollo tecnológico y casos de estudio</td>
+		<td>Investigaciones innovadoras de desarrollo tecnológico y casos de estudio</td>
 	</tr>
 </table>
 
