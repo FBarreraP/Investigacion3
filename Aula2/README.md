@@ -34,7 +34,7 @@ Los productos de investigación son utilizados por MinCiencias para la medición
     <li>Apropiación social del conocimiento (semilleros de investigación, , etc.)</li>
     <li>Divulgación pública de la ciencia (eventos científicos, redes de conocimiento (RIMA), libros, informes y boletines de divulgación de investigación (memorias de congreso), manuales y guías especializadas, consultorías, etc.)</li>
     <li>Formación de recurso humano (Proyectos de I+D+i, direcciones de trabajos de grado (pregrado, maestría y doctorado), creación de programas y cursos de formación de investigadores, etc.)</li>
-<ul>
+</ul>
 
 <h2>Revistas</h2>
 
