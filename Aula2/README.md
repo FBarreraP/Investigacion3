@@ -38,7 +38,7 @@ Los productos de investigación son utilizados por MinCiencias para la medición
 
 Las revistas nacionales son clasificadas por el Ministerio de Ciencia y pueden ser consultadas <a href="https://scienti.minciencias.gov.co/publindex/#/noticias/lista">aquí</a>. Las revistas internacionales son clasificadas por Scimago y pueden ser consultadas <a href="https://www.scimagojr.com">aquí</a>
 
-Para seleccionar una revista relacionada al tema de investigación que se desea publicar, primero hay que revisar:
+Para seleccionar una revista relacionada al tema de investigación que se desea publicar, hay que tener en cuenta:
 
 <ol>
     <li> Clasificación </li>
