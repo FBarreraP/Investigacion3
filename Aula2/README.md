@@ -22,7 +22,7 @@ Un artículo de investigación está planteado principalmente por seis secciones
 <ul>
     <li>Financiamiento para el desarrollo de proyectos y publicaciones</li>
     <li>Ceder autoría en los derechos patrimoniales de una obra</li>
-<ul>
+</ul>
 
 <h3>Productos investigación</h3>
 
