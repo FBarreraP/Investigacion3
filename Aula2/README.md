@@ -4,9 +4,7 @@ En esta clase se realizará una introducción a investigación y se analizarán 
 
 <h2>Investigación</h2>
 
-La investigación es 
-
-Un artículo de investigación está planteado principalmente por seis secciones principales:
+La investigación es un proceso riguroso y metódico de busqueda y exploración orientado a resolver problemas sobre un tema específico con el objetivo de generar nuevos conocimientos y productos. Un artículo de investigación está planteado principalmente por seis secciones principales:
 
 <ol>
     <li>Resumen</li>
@@ -88,9 +86,10 @@ Fuente: https://www.mondragon.edu/es/web/biblioteka/indices-de-impacto-de-las-pu
 
 Las bases de datos son plataformas digitales que incluyen (indexan) artículos o revistas científicas para aumentar su visibilidad y facilitar su acceso. Algunas bases de datos más utilizadas son:
 
-<ol>
-    <li>Google scholar (gratis)</li>
-    <li>IEEE (paga)</li>
-    <li>Scopus (paga)</li>
-    <li>SciElo</li>
-</ol>
+<ul>
+    <li>Google scholar (gratis): Herramienta de búsqueda de Google a nivel mundial.</li>
+    <li>IEEE (paga): Publicaciones técnicas a través de suscripciones institucionales y membresías individuales, aunque algunas publicaciones pueden ser de acceso abierto</li>
+    <li>Scopus (paga): Resúmenes y citas de literatura científica, propiedad de Elsevier, y generalmente se accede a través de suscripciones institucionales</li>
+    <li>SciElo (gratis): Biblioteca digital que proporciona acceso gratuito a revistas científicas de América Latina, el Caribe, España y Portugal. </li>
+    <li>Dialnet (paga): Contenidos científicos hispanos que incluye artículos de revistas, libros y tesis doctorales, algunos con acceso abierto, pero otros requieren suscripción o acceso institucional.</li>
+</ul>
