@@ -19,5 +19,5 @@ La introducción es la apertura de un documento, la cual da el sentido y la impo
 
 La metodología se refiere a la descripción de variables, técnicas, materiales y métodos de investigación para recolectar, procesar y analizar la información. Se debe redactar en presente y en tercera persona, en la cual se describen las etapas del proyecto de investigación y se debe garantizar que la investigación pueda ser reproducida o replicada por otros investigadores. Por tanto, se deben tener en cuenta los siguientes aspectos:
 
-- Diagrama gráfico de flujo destacando las etapas o fases de la investigación, los materiales y los métodos.
-- Desarrollo de las etapas en secciones del documento con fundamentación teórica, matemática, gráfica, entre otras.
+- Presentar un diagrama gráfico de flujo destacando las etapas o fases de la investigación, los materiales y los métodos.
+- Explicar el procedimiento de desarrollo de la investigación, desplegando de manera específica las etapas de la investigación en subsecciones del documento con fundamentación teórica, matemática, gráfica, entre otras.
