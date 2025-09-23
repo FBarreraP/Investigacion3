@@ -11,7 +11,7 @@ El resumen es el último texto que se escribe en un documento ya que en esta sec
 - Resultados principales
 - Conclusión principal
 
-* Evitar citas bibliográficas y abreviaturas.
+(*) Evitar citas bibliográficas y abreviaturas.
 
 
 <!-- Debe tener un máximo de 200 palabras, redactado en tercera persona y en tiempo pasado. Debe estar estructurado de la siguiente forma: 
