@@ -4,14 +4,14 @@ En esta clase se presentan tips y recomendaciones para presentar el resumen en u
 
 <h2>Resumen</h2>
 
-El resumen es el último texto que se escribe en un documento ya que en esta sección se condensa lo más importante de dicho documento. Se debe redactar en pasado y en tercera persona; así mismo, debe tener un contenido entre 150 a 250 palabras. En esta sección se deben tener en cuenta los siguientes aspectos:
+El resumen es el último texto que se escribe en un documento ya que en esta sección se condensa lo más importante de dicho documento. Se debe redactar en pasado y en tercera persona; así mismo, debe tener un contenido entre 150 a 250 palabras. En esta sección se debe redactar teniendo en cuenta los siguientes aspectos:
 
 - Objetivo general
 - Metodología
 - Resultados principales
 - Conclusión principal
 
-(*) Evitar citas bibliográficas y abreviaturas.
+(*) No colocar citas bibliográficas y abreviaturas.
 
 
 <!-- Debe tener un máximo de 200 palabras, redactado en tercera persona y en tiempo pasado. Debe estar estructurado de la siguiente forma: 
