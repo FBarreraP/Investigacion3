@@ -22,3 +22,13 @@ La metodología se refiere a la descripción de variables, técnicas, materiales
 - Detallar los recursos de <i>software</i> y <i>hardware</i>, como lo son: los materiales, las herramientas, las tecnologías, las normas y los métodos utilizados en la investigación.
 - Presentar un diagrama gráfico de flujo destacando las etapas o fases de la investigación.
 - Explicar el procedimiento de desarrollo de la investigación, desplegando de manera específica las etapas de la investigación en subsecciones del documento con fundamentación teórica, matemática, gráfica, entre otras.
+
+<!-- Diseño.
+En esta sección se debe mencionar el diseño metodológico empleado para cumplir los objetivos, así como los materiales, herramientas o recursos empleados para el desarrollo de la investigación. También el paradigma de investigación, el criterio de inclusión y exclusión, el tamaño muestral. Así mismo el método de investigación y la forma como se analizaron los datos.
+
+Participantes.
+Son los actores involucrados en la investigación, tamaño y tipo de la muestra, muestreo y la forma como se seleccionó la muestra del universo. 
+
+Instrumentos
+Son las técnicas de investigación que se aplicaron, el tipo de instrumento, y la descripción del trabajo de campo. Se debe mencionar la razón fundamental de la elección del instrumento utilizado, describiendo su validez y confiabilidad. -->
+

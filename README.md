@@ -49,7 +49,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>16/09/2025</td> <td>2</td> <td>7</td> <td>7</td> <td>Desarrollo y/o entrega de taller</td>
 	</tr>
 	<tr>
-		<td>23/09/2025</td> <td>2</td> <td>8/td> <td>8</td> <td>Resumen</td>
+		<td>23/09/2025</td> <td>2</td> <td>8</td> <td>8</td> <td>Resumen</td>
 	</tr>
     <tr>
 		<td>30/09/2025</td> <td>2</td> <td>9</td> <td>9</td> <td>Desarrollo y/o entrega de taller</td>
